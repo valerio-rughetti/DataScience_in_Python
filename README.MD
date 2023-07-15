@@ -35,7 +35,7 @@ To run the notebooks, open them in Jupyter Notebook or another Jupyter-compatibl
 * [05 - Where to find datasets](notebooks/datasets/find_datasets.ipynb)
 * [06 - Tidy Datasets](notebooks/datasets/tidy_datasets.ipynb)
 * [07 - Overview of Pandas](notebooks/pandas/pandas.ipynb)
-* [08 - Data Visualitazion](notebooks/data_viz/data_viz.ipynb)
+* [08 - Data Visualization](notebooks/data_viz/data_viz.ipynb)
 * [09 - Regression](notebooks/regression/regression.ipynb)
 * [10 - Classification](notebooks/classification/classification.ipynb)
 * [11 - Clustering](notebooks/clustering/clustering.ipynb)
