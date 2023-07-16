@@ -6,3 +6,4 @@ scipy
 pandas_profiling
 plotly
 sklearn
+dtreeviz
