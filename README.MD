@@ -10,7 +10,7 @@ This repository contains the code and notebooks for the Python for Data Science 
 
 ## Installation
 
-To install the dependencies for the course locally, run the following command:
+To install the dependencies to execute notebooks locally, run the following command:
 
 ```sh
 pip install -r requirements.txt
