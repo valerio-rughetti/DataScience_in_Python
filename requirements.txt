@@ -7,3 +7,6 @@ pandas_profiling
 plotly
 sklearn
 dtreeviz
+networkx
+requests
+beautifulsoup4
