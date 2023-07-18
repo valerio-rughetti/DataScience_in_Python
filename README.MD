@@ -13,7 +13,7 @@ This repository contains the code and notebooks for the Python for Data Science 
 To install the dependencies for the course locally, run the following command:
 
 ```sh
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/vrughetti/python4DS/main/requirements.txt
 ```
 
 If you plan to use the notebooks in Google Colab, you can install the dependencies by running the following cell in the notebook:
@@ -21,6 +21,8 @@ If you plan to use the notebooks in Google Colab, you can install the dependenci
 ```sh
 !pip install -r https://raw.githubusercontent.com/vrughetti/python4DS/main/requirements.txt
 ```
+
+Make sure to include the `!` at the beginning of the command otherwise it will not work.
 
 ## Usage
 
