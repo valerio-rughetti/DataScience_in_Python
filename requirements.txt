@@ -5,7 +5,7 @@ numpy
 scipy
 pandas_profiling
 plotly
-sklearn
+scikit-learn
 dtreeviz
 networkx
 requests
