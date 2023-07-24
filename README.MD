@@ -1,6 +1,6 @@
 # Data Science in Python (Prof. Luigi Laura - Uninettuno University)
 
-This repository contains the code and notebooks for the Python for Data Science course.
+This repository contains the code and notebooks for the Data Science in Python course helded by Prof. Luigi Laura from Uninettuno University.
 
 ## Contents
 
