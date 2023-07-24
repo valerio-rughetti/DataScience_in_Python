@@ -1,10 +1,10 @@
-# Python4DS
+# Data Science in Python (Prof. Luigi Laura - Uninettuno University)
 
 This repository contains the code and notebooks for the Python for Data Science course.
 
 ## Contents
 
-* [`notebooks/`](/notebooks/) - A directory containing the Jupyter notebooks for the course.
+* [`notebooks/`](/notebooks/) - A directory containing the Jupyter notebooks (Colab friendly) for the course.
 * [`data/`](/data/) - A directory containing the data used in the notebooks.
 * [`requirements.txt`](requirements.txt) - A file listing the Python dependencies for the course.
 
